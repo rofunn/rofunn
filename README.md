@@ -8,7 +8,7 @@ Nice to see you :wave:
 
 :zap: In my free time, I like to read about design patterns, software architecture, and blockchain innovations.
 
-:mailbox: How to reach me:    [](https://linkedin.com/in/jou-fang-wang-44a14a16b) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="23" height="23" />
+:mailbox: How to reach me:    [](https://www.linkedin.com/in/jou-fang-wang-44a14a16b/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="23" height="23" />
 
 :hammer_and_wrench: Languages and Tools:
 <p align="left">
